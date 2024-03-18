@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Admin</members>
+        <members>AFSS - GLOBAL AFSS Referent</members>
+        <members>AFSS - HQ</members>
+        <members>AFSS - LOCAL AFSS Referent</members>
+        <members>AFSS - Repair Center</members>
+        <members>AFSS - Store</members>
+        <members>AFSS - Warehouse</members>
+        <members>AFSS - Wholesale Referent</members>
+        <members>AFSS -prova Store prova</members>
+        <members>Api Only Boomi</members>
+        <members>Boomi FE</members>
+        <members>Fendi - Boutique</members>
+        <members>Fendi - CRM Ambassador</members>
+        <members>Fendi - CRM Campaign Boutique</members>
+        <members>Fendi - CRM Corporate</members>
+        <members>Fendi - CRM Customer Care</members>
+        <members>Fendi - CRM Local</members>
+        <members>Fendi - CRM Retail Manager</members>
+        <members>Fendi - Ecommerce</members>
+        <members>Fendi - Local CRM Customer Care</members>
+        <members>Fendi - Local CS Management</members>
+        <members>Fendi - Local CS Operations</members>
+        <members>Fendi - Local Finance</members>
+        <members>Fendi - Warehouse %2B editFields</members>
+        <members>Fendi - Warehouse</members>
+        <members>Fivetran User Read Only</members>
+        <members>lone AFSS - Repair Center</members>
+        <members>PBI Integration</members>
+        <members>Slpunk</members>
+        <name>Profile</name>
+    </types>
+    
+    <version>59.0</version>
+</Package>
